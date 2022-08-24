@@ -5,5 +5,6 @@ for col in range (1, 10):
 
 
 
-add new adres ветка new adres
 
+
+print("выводим таблицу умножения!")
