@@ -41,4 +41,4 @@ if cod == 4:
       summ /= j
       str_ += "/" + str(j) 
  
-print(str_, "=hhhh ", summ )
+print(str_, "=000000 ", summ )
