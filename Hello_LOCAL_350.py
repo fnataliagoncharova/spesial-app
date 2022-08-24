@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 разрешение конфликтов веток
 
-=======
-hhhhh main branch
->>>>>>> new-adres
 применение stash / stash 
 
 
